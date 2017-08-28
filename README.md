@@ -1,6 +1,6 @@
 
 ## Note
-This is a debug branch
+This is a debug branch (2)
 
 
 ![sqlboiler logo](http://i.imgur.com/ilkv0r9.png)
