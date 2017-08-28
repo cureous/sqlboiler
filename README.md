@@ -1,3 +1,8 @@
+
+## Note
+This is a debug branch
+
+
 ![sqlboiler logo](http://i.imgur.com/ilkv0r9.png)
 
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/volatiletech/sqlboiler/blob/master/LICENSE)
